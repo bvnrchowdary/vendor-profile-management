@@ -46,7 +46,7 @@ Vendor Profile Management is a Django-based web application that allows you to m
 5. **Install dependencies:**
 
     ```bash
-    pip install -r requirements.txt
+    pip freeze > requirements.txt
     ```
 
 6. **Apply database migrations:**
